@@ -183,3 +183,8 @@ h2 {
 .color {
     margin-top: 25px;
 }
+.products {
+    height: 650px;
+    width: 270px;
+    background-color: #fff;
+}
